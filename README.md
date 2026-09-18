@@ -1,6 +1,6 @@
 # Kaamly
 
-Starter monorepo for a Django REST API and a Next.js frontend.
+This App uses Django REST API and a Next.js frontend.
 
 ## Requirements
 
