@@ -4,7 +4,7 @@ Starter monorepo for a Django REST API and a Next.js frontend.
 
 ## Requirements
 
-- Python 3.11+
+- Python 3.12, 3.13, or 3.14 (Django 6.1 requirement)
 - Node.js 20+
 - VS Code (recommended)
 
